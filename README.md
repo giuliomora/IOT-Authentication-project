@@ -7,7 +7,7 @@ This repository contains a mutual authentication protocol for IoT devices using 
 ## Directory Structure
 
 ```
-Autentication/
+Authentication/
   client.py            # Device-side protocol logic
   server.py            # Server-side protocol logic
   vault.py             # Vault management functions
